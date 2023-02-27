@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import {MdArrowRight, MdArrowForward} from 'react-icons/md';
 
 export const HeroContainer = styled.div`
-    background: linear-gradient(to bottom right, cyan, purple);
+    background: linear-gradient(to right, #26a7b8, #ffa500);
     display: flex;
     justify-content: center;
     align-items: center;
