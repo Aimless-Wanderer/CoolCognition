@@ -8,7 +8,7 @@ function App() {
     <Router>
       <Route>
         <Route path="/" component={Home} />
-        <Route path='/Inventory' element={<Inventory/>} />
+        <Route path='/Inventory' component = {<Inventory/>} />
       </Route>
     </Router>
   );
